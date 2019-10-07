@@ -2,6 +2,8 @@
 #Gabriel Dantas Santos de Azevêdo
 #Matrícula: 118210140
 #Problema: Avaliação Docente
+#
+# Ótimo trabalho, parabéns. Você é o cara!! @EuclidesRamos
 
 semestre = int(raw_input())
 p_ensino = int(raw_input())
